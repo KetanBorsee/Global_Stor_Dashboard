@@ -1,2 +1,2 @@
-# Global_Stor_Dashboard
+# Global_Store_Dashboard
 Power BI Project
